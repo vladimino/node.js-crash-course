@@ -1,0 +1,22 @@
+{
+  "name": "node.js-crash-course",
+  "version": "1.0.0",
+  "description": "Node.js Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimino/node.js-crash-course.git"
+  },
+  "author": "Vlad Bilokur",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/vladimino/node.js-crash-course/issues"
+  },
+  "homepage": "https://github.com/vladimino/node.js-crash-course#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
